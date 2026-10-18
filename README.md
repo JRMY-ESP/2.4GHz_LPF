@@ -1,2 +1,4 @@
-# 2.4GHz_LPF
-2.4GHz LPF, order 5, stepped impedance
+# 2.4_GHz_LPF
+
+5th order stepped impedance LPF designed for 2.4 GHz
+
